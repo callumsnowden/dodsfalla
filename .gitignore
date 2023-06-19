@@ -1,0 +1,4 @@
+*.zip
+*.dxf~
+*.kicad_sch-bak
+hardware/dodsfalla_controller/fp-info-cache
